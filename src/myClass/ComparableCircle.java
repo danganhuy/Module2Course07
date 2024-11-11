@@ -1,4 +1,4 @@
-package Exercise2;
+package myClass;
 
 public class ComparableCircle extends Circle implements Comparable<ComparableCircle>{
     public ComparableCircle() {

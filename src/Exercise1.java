@@ -1,4 +1,4 @@
-import Exercise1.*;
+import myClass.*;
 
 public class Exercise1 {
     // [Thực hành] triển khai interface 'Comparable' cho các lớp hình học (v.2023)

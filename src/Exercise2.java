@@ -1,4 +1,4 @@
-import Exercise2.*;
+import myClass.ComparableCircle;
 
 import java.util.Arrays;
 
